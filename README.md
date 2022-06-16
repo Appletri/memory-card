@@ -3,7 +3,7 @@
 ## Links
 - [Try Memory Card!](https://appletri.github.io/memory-card/)
 
-- [Link to the Assignment]([https://www.theodinproject.com/lessons/node-path-javascript-cv-application](https://www.theodinproject.com/lessons/node-path-javascript-memory-card))
+- [Link to the Assignment](https://www.theodinproject.com/lessons/node-path-javascript-memory-card)
 
 ## About
 <hr>
